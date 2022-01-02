@@ -1,0 +1,27 @@
+.btn-primary{
+    position:absolute;
+left:30px;
+align-content: center;
+background-color: #000;
+border:0;
+height:20px;
+margin-top:0.75rem;
+color:#000;
+}
+.btn-primary:hover{
+    border-color: #000;;
+    background-color: #000;
+  }
+.iYpClh{
+ height:32px;
+ font-size:10px;
+ width:125px;
+ border-radius: 2rem;
+
+}
+.nav-link{
+    color:#fff;
+}
+.offcanvas-start{
+    width:250px;
+}
